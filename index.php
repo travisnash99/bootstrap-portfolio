@@ -1,0 +1,1 @@
+<?php include_once("your<?php include_once("yourFileNameHere"); ?>FileNameHere"); ?>
